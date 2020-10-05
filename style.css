@@ -1,0 +1,16 @@
+.groupe1{
+    font-weight: bold;
+    text-align: center;
+}
+
+.rouge{
+color:rgb(255, 0, 0)
+}
+
+.vert{
+    color:green;
+}
+
+#italic{
+    font-style:italic;
+}
